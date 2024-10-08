@@ -12,6 +12,10 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: {
+        'home-page' : "url('./images/Cakap_Logo.png')",
+        'fondo' : "url('./images/fondo.jpg')"
+      }
     },
   },
   plugins: [],
